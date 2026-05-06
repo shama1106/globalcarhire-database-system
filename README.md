@@ -69,6 +69,9 @@ The database system was designed using:
 
 # 🗄️ Database Design
 
+<img width="963" height="662" alt="image" src="https://github.com/user-attachments/assets/5a1739a7-53c7-44ce-9cb1-07d01ac45e5d" />
+
+
 ## Main Entities
 
 - Customer  
